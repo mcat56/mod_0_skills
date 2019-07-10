@@ -1,0 +1,15 @@
+class Bathroom
+
+Attributes :
+  number_of_stalls (Integer)
+  sink_count (Integer)
+  has_paper_towel (Boolean)
+  has_windows (Boolean)
+  has_air_drier (Boolean)
+
+Methods
+  add_stall = number_of_stalls + 1 (add a stall)
+  remove_sink = sink_count - 1
+  install_air_drier = install air drier, has_air_drier change to true
+  remove_paper = remove paper towel, has_paper_towel change to false
+  
