@@ -12,5 +12,3 @@ Methods
   remove_sink = 4 - 1 = 3
   install_air_drier = has_air_drier = true
   remove_paper = has_paper_towel = false
-
-  
