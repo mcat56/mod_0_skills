@@ -1,0 +1,15 @@
+class Classroom
+
+Attributes :
+   seat_count (Integer)
+   has_white_board (Boolean)
+   desk_count (Integer)
+   floor_type (String)
+   room_number (Float)
+
+Methods :
+  add_seats = seat_count + x (add seats to the classroom)
+  remove_desk = desk_count - 1 (removes a desk)
+  change_floor = (change floor_type, if carpet then tile, if tile then carpet)
+  change_location = (change room number)
+  
