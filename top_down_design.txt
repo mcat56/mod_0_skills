@@ -1,0 +1,48 @@
+1 How to Become a Turing Student
+1.1 Contact Turing
+  1.1.1 Inquire with Turing how to begin
+  1.1.2 Research on Turing about the program
+  1.1.3 Initialize interview process
+1.2 Interview
+  1.2.1 Set interview Time
+  1.2.2 Complete interview
+1.3 Plan Finances
+  1.3.1 Research costs of tuition and living
+  1.3.2 Budget 10 months of living
+  1.3.3 Decide how you will pay
+  1.3.4 Apply for loans if necessary
+    1.3.4.1 Research different loans
+    1.3.4.2 Find best interest rate
+    1.3.4.3 Decide repayment method
+    1.3.4.4 Commit to loan
+  1.3.5 Apply for scholarships if applicable
+    1.3.5.1 Research available scholarships
+    1.3.5.2 Prepare scholarship material
+1.4 Plan Time Commitment
+  1.4.1 Plan your life and commitment around 7 months in school
+  1.4.2 Prepare schedule to be free for time in school
+1.5 Plan Study Commitment
+  1.5.1 Plan your study regimen
+  1.5.2 Prepare study materials
+  1.5.3 Gather resources
+  1.5.4 Reach out for help if needed
+1.6 Attend Try Coding Weekend
+  1.6.1 Be involved in the activities
+  1.6.2 Ask questions
+  1.6.3 Get a sense for program fit
+1.7 Enroll
+  1.7.1 Enroll through site
+  1.7.2 Choose your cohort
+  1.7.3 Choose Mod 0 to Complete
+1.8 Complete Mod 0
+  1.8.1 Attend all lessons
+    1.8.1.1 Be engaged
+    1.8.1.2 Ask questions
+    1.8.1.3 Engage with classmates
+  1.8.2 Complete all homework assignments
+  1.8.3 Complete Mod 0 Assessment
+1.9 Complete Capstone
+2.0 Prepare for first day of class
+  2.1 Plan commute
+  2.2 Prepare materials for class
+  2.3 Continue study habits
